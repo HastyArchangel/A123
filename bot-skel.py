@@ -1,6 +1,7 @@
 #COPYRIGHT 2021 Manole Alexandru Florin
 #!./.venv/bin/python
 
+
 import discord      # base discord module
 import code         # code.interact
 import os           # environment variables
